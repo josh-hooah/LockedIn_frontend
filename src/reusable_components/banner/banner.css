@@ -1,0 +1,27 @@
+.w-full {
+  margin: 0px;
+  COLOR: white;
+  background-color: rgb(36, 4, 36);
+  justify-content: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  text-align: center;
+}
+
+.w-full h1 {
+  letter-spacing: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.w-full p {
+  color: gray;
+  font-family: monospace;
+  font-size: small;
+  font-weight: bold;
+  margin-bottom: 8px;
+  letter-spacing: 5px;
+}
+
+.getStarted button {
+  font-size: 1.2rem;
+  margin-top: 20px
+}

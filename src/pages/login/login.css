@@ -1,0 +1,41 @@
+/* LoginPage.css */
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(36, 4, 36);
+}
+
+.login-card {
+  padding: 2rem;
+  background-color: #ffffff;
+  border-radius: 20px;
+  margin-top: 4rem;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.login-svg {
+  border-radius: 20px 20px 0 0;
+}
+
+.MuiTextField-root label {
+  color: rgb(36, 4, 36);
+}
+
+.MuiButton-root {
+  background-color: rgb(36, 4, 36);
+  color: white;
+}
+
+.MuiButton-root:hover {
+  background-color: rgb(60, 8, 60);
+}
+
+Link {
+    text-decoration: none;
+    color: black
+}
+
+.dha {
+    margin-top: 30px
+}

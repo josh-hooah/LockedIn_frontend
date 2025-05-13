@@ -1,0 +1,72 @@
+.header {
+    border-radius:20px 20px 0px 0px;
+    color: white
+}
+
+Link{ 
+    color: white;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(36, 4, 36);
+    align-items: center;
+    text-align: center;
+    /* border-bottom: 2px solid rgba(128, 0, 128, 0.623); */
+    box-shadow: 0px 5px 10px rgba(128, 0, 128, 0.623);
+    padding: 0px 5px;
+    color: white
+}
+
+.header nav ul {
+    display: flex;
+    justify-content: space-between;
+}
+.dot {
+    border: 2px solid purple;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 100%;
+    box-shadow: 0px 0px 20px purple;
+}
+
+.logo {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    font-weight: 900;
+}
+
+.header nav ul li {
+    margin: 0px 10px;
+    letter-spacing: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+}
+
+Link {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    list-style:none;
+    color: white;
+}
+
+.getStarted button{
+    font-size: 1.5rem;
+    
+}
+
+
+.vvv Link {
+    display: none;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    align-self: center;
+}
